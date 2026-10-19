@@ -1,0 +1,7 @@
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.gh-aw/
+node_modules/
